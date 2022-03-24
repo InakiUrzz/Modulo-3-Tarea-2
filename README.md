@@ -1,2 +1,2 @@
-# Modulo-3-Tarea-2
-Realización del Modulo 3 Tarea 2 
+# Sprint 3 E2
+Plotting some categorical and numerical variables from a restaurant Dataset.
